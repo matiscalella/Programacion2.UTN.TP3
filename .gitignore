@@ -1,0 +1,13 @@
+# Archivos de NetBeans
+/nbproject/private/
+
+# Directorios de compilación
+/build/
+/dist/
+
+# Archivos compilados de Java
+*.class
+
+# Archivos temporales del SO
+.DS_Store
+Thumbs.db
